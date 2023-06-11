@@ -10,6 +10,11 @@ body {
     margin: 10px 0;
 }
 
+.colums div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .footer .icon-link {
     font-size: 25px;
     color: #000;
